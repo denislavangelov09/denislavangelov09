@@ -17,8 +17,7 @@ Here are some of the projects I've worked on recently:
 - **Frontend Mentor Challenges:** You can check out my solutions to various frontend challenges [here](https://www.frontendmentor.io/profile/tedkataa).
 
 ## 📫 Contact Me
-- Twitter: [@tedkataa_](https://x.com/tedkataa_)
-- Discord: tedkataa_
+- Email: denislavpetrovangelov@gmail.com
 
 ## 🚀 Future Plans
 I'm excited to continue learning and growing as a developer. My next steps include:
