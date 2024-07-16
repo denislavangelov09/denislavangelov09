@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Tedkata
+## 👋 Hello! I'm Denislav Angelov.
 
 I'm a 14-year-old developer from Bulgaria passionate about coding and learning new technologies! 
 
